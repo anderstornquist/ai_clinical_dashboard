@@ -1,0 +1,7 @@
+
+credentials:
+  usernames:
+    Anders:
+      email: anders@example.com
+      name: Anders
+      password: '$2b$12$KIXJHCyR3uEV8NO3GSLae.8My93JGBSOaLxj.XPa6kSvnHqFt6E8e'
